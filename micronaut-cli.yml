@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.project
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [ app-name, data, data-jpa, gradle, http-client, java, java-application, jdbc-hikari, junit, logback, mysql, openapi, readme, shade, testcontainers, tomcat-server, yaml ]
